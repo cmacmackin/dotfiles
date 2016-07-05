@@ -1,0 +1,13 @@
+2016-02-28  Vitalie Spinu  <spinuvit@gmail.com>
+
+	Merge math-symbol-lists
+
+2015-08-31  Stefan Monnier  <monnier@iro.umontreal.ca>
+
+	* math-symbol-lists: Fix trailer; provide email address
+
+2015-08-31  Vitalie Spinu  <spinuvit@gmail.com>
+
+	Merge commit 'c824884ed1d3095eb998345bcbcfe67507a4db75' as
+	'packages/math-symbol-lists'
+

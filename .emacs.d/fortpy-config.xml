@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+  <codes>
+    <trunk name="factual" value="~/Code/factual/src" />
+    <trunk name="FOODIE" value="~/Code/FOODIE/src/lib" />
+  </codes>
+  <mappings>
+    <map module="abstract_fields_mod" file="abstract_fields.f90" />
+    <map module="cheb1d_fields_mod" file="cheb1d_fields.F90" />
+    <map module="chebyshev_mod" file="chebyshev.f90" />
+    <map module="factual_mod" file="factual.f90" />
+  </mappings>
+</config>

@@ -1,0 +1,5 @@
+session.*
+*~
+.emacs.d/.python-environments
+*.log
+*.elc

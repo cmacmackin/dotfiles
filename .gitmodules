@@ -1,0 +1,6 @@
+[submodule "fortpy-el"]
+	path = fortpy-el
+	url = https://github.com/rosenbrockc/fortpy-el
+[submodule "fortpy"]
+	path = fortpy
+	url = https://github.com/rosenbrockc/fortpy
